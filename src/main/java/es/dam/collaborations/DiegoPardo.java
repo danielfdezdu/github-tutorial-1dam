@@ -3,6 +3,9 @@ package es.dam.collaborations;
 public class DiegoPardo {
     
     public static void DiegoPardo(){
-        System.out.println("hola");
+        for(int i = 0; i > 10; i++){
+            System.out.println("Hola Boris");
+        }
+        
     }
 }
