@@ -15,5 +15,8 @@ public class MainClass {
     public static void main(String[] args) {
         CollaborationExample.collaboration();
         JoelEstravizNogueiro.saludoPersonalizado("Boris");
+        AntonioConde.main(args);
+        AntonioGuerraVazquez.main(args);
+        NathyaraCorral.main(args);
     }
 }
